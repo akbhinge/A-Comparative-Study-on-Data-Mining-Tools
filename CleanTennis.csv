@@ -1,0 +1,363 @@
+PlayerId,Name,YearId,ACEPercentagePerYear,DBFPercentagePerYear,UFEPercentagePerYear,BPWPercentagePerYear,BPCPercentagePerYear
+1,A Dulgheru,1,0,6,34,2,7
+2,A Wozniak,1,0,8,35,3,5
+3,A.Glatch,1,7,1,24,2,5
+4,A.Keothavong,1,2,2,14,0,1
+5,Adrian Mannarino,1,8,2,22,7,6
+6,Adrian Ungur,1,1,6,10,1,1
+7,Agnieszka Radwanska,1,2,1,14,7,7
+8,Ajla Tomljanovic,1,3,5,32,4,7
+9,Albano Olivetti,1,18,8,0,1,0
+10,Albert Montanes,1,4,5,17,4,3
+11,Albert Ramos,1,5,4,10,7,3
+12,Alejandro Falla,1,1,3,24,11,5
+13,Alejandro Gonzalez,1,2,4,41,7,5
+14,Aleksandr Nedovyesov,1,8,2,37,2,0
+15,Alex Bogomolov Jr.,1,2,7,18,8,3
+16,Alex Kuznetsov,1,9,2,30,2,6
+17,Alexander Dolgopolov,1,10,2,24,10,5
+19,Alexandra Cadantu,1,0,4,21,4,4
+20,Alison Riske,1,1,3,17,5,5
+21,Alison Van Uytvanck,1,5,4,40,7,2
+22,Alize Cornet,1,2,4,22,6,6
+23,Aljaz Bedene,1,10,6,29,4,3
+24,Alla Kudryavtseva,1,3,3,14,6,3
+25,Ana Ivanovic,1,3,3,25,7,6
+26,Ana Konjuh,1,0,5,25,1,0
+27,Anabel Medina Garrigues,1,0,0,16,5,6
+28,Anastasia Pavlyuchenkova,1,4,2,21,3,7
+29,AnastasiAnastasia Pavlyuchenkova,1,2,4,26,8,4
+30,Andrea Hlavackova,1,2,3,32,7,6
+31,Andrea Petkovic,1,2,2,27,3,8
+32,Andreas Beck,1,4,4,39,13,1
+33,Andreas Haider-Maurer,1,8,6,15,6,1
+34,Andreas Seppi,1,10,4,33,11,5
+35,Andrej Martin,1,4,3,0,12,7
+36,Andrey Golubev,1,0,0,15,2,1
+37,Andrey Kuznetsov,1,6,6,15,14,6
+38,Andy Murray,1,9,2,17,7,7
+39,Angelique Kerber,1,2,2,20,8,7
+40,Anna Karolina Schmiedlova,1,2,3,19,7,3
+41,Anna Tatishvili,1,0,4,22,3,4
+42,Annika Beck,1,0,1,18,7,6
+43,Arantxa Rus,1,0,7,37,3,3
+44,Aravane Rezai,1,1,7,32,13,6
+45,Ashleigh Barty,1,2,2,13,4,2
+46,Ayumi Morita,1,2,2,23,3,2
+47,B.Knittel,1,4,12,44,1,1
+48,B.Reynolds,1,15,3,25,1,8
+49,Barbora Zahlavova Strycova,1,4,1,27,6,6
+50,Belinda Bencic,1,3,5,31,11,6
+51,Benjamin Becker,1,7,4,15,6,3
+52,Benoit Paire,1,17,4,35,11,5
+53,Bernard Tomic,1,9,1,17,6,5
+54,Bethanie Mattek-Sands,1,2,3,30,8,4
+55,Blaz Kavcic,1,6,3,23,7,5
+56,Blaz Rola,1,9,8,8,6,3
+57,Bojana Jovanovski,1,2,2,25,6,6
+58,Bradley Klahn,1,11,4,3,6,2
+59,Brian Baker,1,14,10,0,12,7
+60,Camila Giorgi,1,1,8,37,5,6
+61,Carina Witthoeft,1,0,4,7,3,2
+62,Carla Suarez Navarro,1,0,1,23,7,8
+63,Carlos Berlocq,1,4,3,5,8,3
+64,Caroline Garcia,1,3,2,15,2,2
+67,Casey Dellacqua,1,0,1,24,10,4
+68,Chanelle Scheepers,1,0,5,20,3,5
+69,Christina McHale,1,3,3,26,8,4
+70,Claire Feuerstein,1,1,2,37,9,2
+71,Coco Vandeweghe,1,3,4,33,4,4
+72,Collin Altamirano,1,3,3,0,0,0
+73,Cristina McHale,1,3,3,26,3,9
+74,D.Brown,1,13,3,21,3,6
+75,Damir Dzumhur,1,5,5,21,6,3
+76,Daniel Brands,1,19,3,37,7,2
+77,Daniel Evans,1,8,6,0,11,5
+78,Daniel Gimeno-Traver,1,10,4,38,5,4
+79,Daniel Munoz-De La Nava,1,0,2,47,16,1
+80,Daniela Hantuchova,1,4,3,29,6,6
+81,David Ferrer,1,4,3,21,13,7
+82,David Goffin,1,5,4,16,3,1
+83,David Guez,1,3,0,39,7,3
+84,Denis Istomin,1,10,2,21,7,4
+85,Denis Kudla,1,3,4,24,8,5
+86,Di Wu,1,3,5,36,13,2
+87,Dinah Pfizenmaier,1,2,4,29,8,3
+88,Dmitry Tursunov,1,9,4,15,5,3
+89,Dominic Thiem,1,15,3,12,7,2
+90,Dominika Cibulkova,1,0,3,23,7,6
+91,Donald Young,1,3,8,28,10,4
+92,Donna Vekic,1,2,2,10,4,1
+93,Dudi Sela,1,2,5,16,18,7
+94,Dusan Lajovic,1,7,5,53,7,3
+95,E.Birnerova,1,2,2,22,3,8
+96,E.Cabeza Candela,1,0,1,18,1,5
+97,Edouard Roger-Vasselin,1,6,2,17,10,5
+98,Ekaterina Makarova,1,2,2,20,6,6
+99,Elena Baltacha,1,0,0,11,3,1
+100,Elena Vesnina,1,1,2,20,3,3
+101,Elina Svitolina,1,2,3,25,6,6
+102,Ernests Gulbis,1,11,6,39,8,5
+103,Eugenie Bouchard,1,2,2,23,7,6
+104,Evgeny Donskoy,1,8,2,15,8,2
+105,Fabio Fognini,1,5,5,34,9,4
+106,Federico Delbonis,1,4,4,30,9,3
+107,Feliciano Lopez,1,13,4,22,6,4
+108,Fernando Verdasco,1,11,8,36,9,7
+109,Filippo Volandri,1,1,5,19,2,0
+110,Flavia Pennetta,1,3,2,20,8,5
+111,Florent Serra,1,4,1,12,3,1
+112,Florian Mayer,1,7,2,17,9,4
+113,Francesca Schiavone,1,1,4,21,7,3
+114,Frank Dancevic,1,10,3,4,6,2
+115,G.Elias,1,0,6,20,1,2
+116,Gabrine Muguruza,1,3,5,23,3,9
+117,Gael Monfils,1,10,3,32,9,3
+118,Galina Voskoboeva,1,3,5,31,8,5
+119,Garbine Muguruza,1,4,5,36,7,3
+120,Gilles Muller,1,8,5,29,3,1
+121,Gilles Simon,1,8,5,34,9,5
+122,Go Soeda,1,4,3,23,2,3
+123,Grace Min,1,1,1,19,10,7
+124,Grega Zemlja,1,12,5,27,5,4
+125,Grigor Dimitrov,1,11,4,25,7,5
+126,Guido Pella,1,6,5,29,6,6
+127,Guillaume Rufin,1,7,5,22,7,4
+128,Guillermo Garcia-Lopez,1,6,6,14,5,2
+129,Hao Chen Tang,1,1,6,6,7,2
+130,Heather Watson,1,4,3,36,5,5
+131,Horacio Zeballos,1,10,4,25,6,2
+132,I.Andreev,1,5,2,21,2,3
+133,Igor Sijsling,1,12,3,21,5,3
+134,Illya Marchenko,1,0,4,35,2,1
+135,Irena Pavlovic,1,4,3,26,0,0
+136,Irina Falconi,1,1,2,21,5,4
+137,Irina-Camelia Begu,1,0,4,20,5,3
+138,Ivan Dodig,1,13,3,21,5,6
+139,Ivo Karlovic,1,25,5,9,5,1
+140,J.Konta,1,1,4,25,0,2
+141,J.Ward,1,18,4,28,1,13
+142,Jack Sock,1,8,7,15,7,3
+143,James Blake,1,7,3,14,5,7
+144,James Duckworth,1,10,4,27,4,5
+145,Jamie Hampton,1,2,2,29,6,6
+146,Jan Hajek,1,3,2,20,5,3
+147,Jana Cepelova,1,1,2,21,8,5
+148,Janko Tipsarevic,1,8,2,12,9,3
+149,Jan-Lennard Struff,1,9,6,30,7,5
+150,Jarkko Nieminen,1,5,4,28,9,4
+151,Jarmila Gajdosova,1,2,6,31,11,4
+152,Jelena Jankovic,1,2,3,21,7,5
+153,Jeremy Chardy,1,9,5,28,6,4
+154,Jerzy Janowicz,1,13,7,34,6,6
+155,Jesse Huta Galung,1,9,7,33,5,0
+156,Jesse Levine,1,10,7,38,3,4
+157,Jie Zheng,1,0,2,25,6,5
+158,Jimmy Wang,1,1,3,3,7,3
+159,Jiri Vesely,1,11,8,18,5,2
+160,Joao Sousa,1,6,2,10,7,4
+161,Johanna Larsson,1,1,3,19,6,2
+162,John Isner,1,19,1,22,8,3
+163,Jordan Thompson,1,13,8,36,10,3
+164,Jo-Wilfried Tsonga,1,9,1,27,7,4
+165,Juan Martin Del Potro,1,12,2,16,7,7
+166,Juan Monaco,1,3,2,19,8,7
+167,Julia Glushko,1,3,2,19,6,7
+168,Julia Goerges,1,5,3,43,6,3
+169,Julian Reister,1,9,6,34,5,8
+170,Julien Benneteau,1,9,4,28,8,4
+171,Jurgen Melzer,1,8,2,19,5,8
+172,Jurgen Zopp,1,6,6,21,3,2
+173,K.Edmund,1,4,3,12,0,4
+174,Kaia Kanepi,1,5,4,26,3,5
+175,Karin Knapp,1,5,4,24,4,5
+176,Karolina Pliskova,1,7,3,27,6,4
+177,Katarzyna Piter,1,1,3,25,2,0
+178,Katerina Siniakova,1,2,3,3,6,2
+179,Kei Nishikori,1,2,3,32,10,7
+180,Kenny De Schepper,1,14,8,33,3,3
+181,Kevin Anderson,1,16,3,22,7,4
+182,Kiki Bertens,1,2,6,41,7,4
+183,Kimiko Date-Krumm,1,0,1,24,5,5
+184,Kirsten Flipkens,1,4,3,17,5,7
+185,Klara Zakopalova,1,1,4,30,7,8
+186,Kristina Mladenovic,1,5,4,31,4,7
+187,Kristyna Pliskova,1,0,3,27,4,0
+188,Kurumi Nara,1,0,2,30,7,6
+189,Lara Arruabarrena,1,1,2,9,2,3
+190,Laura Robson,1,5,4,26,2,4
+191,Lauren Davis,1,0,2,20,4,2
+192,Leonardo Mayer,1,8,5,24,7,4
+193,Lesia Tsurenko,1,1,3,33,5,4
+194,Lleyton Hewitt,1,10,5,19,10,8
+195,Lourdes Dominguez Lino,1,1,3,22,3,5
+196,Lucas Pouille,1,3,5,54,8,3
+197,Lucie Hradecka,1,5,5,21,4,2
+198,Lucie Safarova,1,3,4,22,10,5
+199,Lukas Lacko,1,8,3,23,4,2
+200,Lukas Rosol,1,12,9,54,7,6
+201,Lukasz Kubot,1,9,7,20,7,7
+202,Luksika Kumkhum,1,4,7,33,11,4
+203,M Burdette,1,0,3,33,1,1
+204,M.Camerin,1,2,6,31,4,9
+205,M.Krajicek,1,1,2,8,0,3
+206,M.Larcher De Brito,1,0,3,21,3,5
+207,M.Reid,1,12,7,30,0,2
+208,Madison Keys,1,6,2,27,5,6
+209,Magdalena Rybarikova,1,3,1,30,6,4
+210,Mallory Burdette,1,0,1,33,6,9
+211,Mandy Minella,1,1,2,14,3,4
+212,Marc Gicquel,1,4,4,26,2,3
+213,Marcel Granollers,1,11,4,16,9,5
+214,Marcos Baghdatis,1,9,5,15,9,2
+215,Maria Joao Koehler,1,1,7,36,3,4
+216,Maria Kirilenko,1,1,3,16,5,2
+217,Maria Sharapova,1,3,5,31,7,5
+218,Mariana Duque-Marino,1,3,4,29,9,5
+219,Maria-Teresa Torro-Flor,1,0,1,20,5,5
+220,Marin Cilic,1,12,3,27,9,5
+221,Marina Erakovic,1,6,5,28,6,5
+222,Marinko Matosevic,1,7,5,35,7,5
+223,Marion Bartoli,1,1,5,19,6,7
+224,Martin Alund,1,4,2,32,4,2
+225,Martin Klizan,1,7,4,24,7,2
+226,Mathilde Johansson,1,0,5,30,6,5
+227,Matthew Ebden,1,7,5,41,8,3
+228,Maxime Teixeira,1,4,5,42,8,5
+229,Maximo Gonzalez,1,6,4,0,13,5
+230,Melanie Oudin,1,1,2,37,9,9
+231,Melinda Czink,1,1,4,26,6,2
+232,Michael Berrer,1,7,4,15,8,3
+233,Michael Llodra,1,12,5,18,6,3
+234,Michael Russell,1,5,5,19,6,4
+235,Michal Przysiezny,1,9,2,24,6,3
+236,Mikhail Kukushkin,1,4,2,0,9,5
+237,Mikhail Youzhny,1,6,3,21,10,6
+238,Milos Raonic,1,22,4,21,9,4
+239,Mirjana Lucic-Baroni,1,4,4,31,5,3
+240,Misaki Doi,1,0,3,21,4,7
+241,Mona Barthel,1,2,2,32,3,4
+242,Monica Niculescu,1,0,2,21,7,6
+243,Monica Puig,1,3,3,24,4,5
+244,Na Li,1,2,3,24,6,7
+245,Nadia Petrova,1,9,1,30,4,3
+246,Nadiya Kichenok,1,4,7,43,8,2
+247,Nick Kyrgios,1,15,7,37,5,2
+248,Nicolas Almagro,1,13,3,27,7,5
+249,Nicolas Mahut,1,11,3,23,5,4
+250,Nikolay Davydenko,1,4,2,20,10,4
+251,Nina Bratchikova,1,1,2,27,2,3
+252,Novak Djokovic,1,8,1,21,9,7
+253,O.Rochus,1,0,0,14,0,0
+254,Olga Govortsova,1,2,4,23,6,3
+255,Olga Puchkova,1,0,5,21,5,5
+256,Olivia Rogowska,1,2,4,35,6,3
+257,Pablo Andujar,1,3,2,14,8,3
+258,Pablo Carreno Busta,1,7,7,58,5,4
+260,Pablo Cuevas,1,8,5,32,8,2
+261,Paolo Lorenzi,1,4,5,23,7,6
+262,Patricia Mayr-Achleitner,1,0,1,1,12,5
+263,Paula Ormaechea,1,1,5,23,6,6
+264,Paul-Henri Mathieu,1,7,8,35,9,3
+265,Pauline Parmentier,1,2,5,13,1,1
+266,Pere Riba,1,3,0,16,5,1
+267,Peter Gojowczyk,1,10,6,19,9,3
+268,Petra Cetkovska,1,2,2,19,7,6
+269,Petra Kvitova,1,3,4,28,6,6
+270,Petra Martic,1,4,6,28,4,7
+271,P-H.Mathieu,1,26,4,25,3,10
+272,Philipp Kohlschreiber,1,9,2,18,9,4
+273,Philipp Petzschner,1,4,3,18,3,2
+274,Polona Hercog,1,0,0,1,0,0
+275,Radek Stepanek,1,4,4,29,7,5
+276,Rafael Nadal,1,3,1,18,10,5
+277,Rajeev Ram,1,11,1,10,8,7
+278,Rhyne Williams,1,19,4,24,8,2
+279,Ricardas Berankis,1,11,6,33,6,3
+280,Richard Gasquet,1,8,3,16,10,6
+281,Roberta Vinci,1,2,1,16,5,7
+282,Roberto Bautista Agut,1,4,1,20,9,5
+283,Robin Haase,1,9,3,28,7,2
+284,Roger Federer,1,8,1,21,10,5
+285,Rogerio Dutra Silva,1,1,3,13,5,2
+286,Romina Oprandi,1,2,2,27,7,8
+287,Ryan Harrison,1,9,3,19,3,1
+288,S.Murray,1,4,6,27,0,1
+289,Sabine Lisicki,1,5,4,27,5,6
+290,Sachia Vickery,1,0,3,36,5,3
+291,Sam Querrey,1,18,4,29,9,5
+292,Samantha Stosur,1,3,2,23,6,6
+293,Samuel Groth,1,16,4,25,2,0
+294,Sandra Zahlavova,1,2,1,24,3,0
+295,Santiago Giraldo,1,8,2,26,6,4
+296,Sara Errani,1,0,0,13,5,5
+297,Serena Williams,1,6,1,17,7,6
+298,Sergiy Stakhovsky,1,10,4,15,5,5
+299,Shahar Peer,1,1,2,31,4,2
+300,Shelby Rogers,1,3,1,28,8,3
+301,Shuai Peng,1,2,2,26,4,5
+302,Shuai Zhang,1,2,1,21,6,2
+303,Silvia Soler-Espinosa,1,1,2,23,4,4
+304,Simona Halep,1,1,2,21,7,7
+305,Simone Bolelli,1,4,1,27,0,0
+306,Sloane Stephens,1,2,2,26,5,5
+307,Sofia Arvidsson,1,1,0,14,2,3
+308,Somdev Devvarman,1,5,2,7,9,4
+309,Sorana Cirstea,1,2,3,28,6,6
+310,Stanislas Wawrinka,1,11,3,27,10,4
+311,Stefanie Voegele,1,2,2,24,8,3
+312,Stephane Robert,1,5,4,23,10,5
+313,Stephanie Foretz Gacon,1,5,2,29,0,0
+314,Steve Darcis,1,8,1,21,4,7
+315,Steve Johnson,1,15,9,27,4,5
+316,Storm Sanders,1,2,3,34,7,2
+317,Su-Wei Hsieh,1,0,4,23,2,0
+318,Svetlana Kuznetsova,1,3,2,28,6,6
+319,S-W.Hsieh,1,0,1,14,3,11
+320,T.Maria,1,2,10,29,0,1
+321,T.Moore,1,4,11,36,4,15
+322,Tadeja Majeric,1,4,7,7,6,3
+323,Tamira Paszek,1,1,6,39,8,5
+324,Tatjana Maria,1,5,2,32,3,2
+325,Teliana Pereira,1,3,7,7,4,2
+326,Teymuraz Gabashvili,1,3,4,35,10,5
+327,Thanasi Kokkinakis,1,6,6,34,4,1
+328,Thiemo De Bakker,1,7,3,15,3,1
+329,Thomas Fabbiano,1,0,7,0,5,1
+330,Thomaz Bellucci,1,8,4,22,5,2
+331,Tim Smyczek,1,10,3,1,12,5
+332,Timea Babos,1,7,9,29,14,5
+333,Tobias Kamke,1,5,5,22,11,5
+334,Tomas Berdych,1,10,2,21,8,6
+335,Tommy Haas,1,9,4,21,8,5
+336,Tommy Robredo,1,8,2,19,9,5
+337,Tsvetana Pironkova,1,3,1,18,3,4
+338,Urszula Radwanska,1,0,2,22,9,8
+339,V Dushevina,1,1,5,29,3,7
+340,V Duval,1,0,5,31,4,7
+341,Vania King,1,0,1,24,3,3
+342,Varvara Lepchenko,1,2,4,41,6,5
+343,Vasek Pospisil,1,18,5,29,7,5
+344,Venus Williams,1,2,6,46,9,10
+345,Vera Zvonareva,1,2,4,43,1,0
+346,Vesna Dolonc,1,2,4,18,5,5
+347,Victor Hanescu,1,5,2,18,6,1
+348,Victoria Azarenka,1,1,4,22,9,8
+349,Viktor Troicki,1,11,2,29,8,7
+350,Vincent Millot,1,10,8,61,15,7
+351,Virginie Razzano,1,2,3,29,7,2
+352,Wayne Odesnik,1,8,2,66,14,9
+353,Xavier Malisse,1,9,2,17,5,2
+354,Yanina Wickmayer,1,2,5,35,5,3
+355,Yaroslava Shvedova,1,0,5,31,6,5
+356,Yen-Hsun Lu,1,4,3,12,11,4
+357,Y-H.Lu,1,6,4,29,1,9
+358,Ying-Ying Duan,1,0,2,23,4,5
+359,Y-T.Wang,1,9,2,59,9,25
+360,Yulia Putintseva,1,1,3,25,5,3
+361,Yuliya Beygelzimer,1,0,1,22,1,0
+362,Yung-Jan Chan,1,0,6,6,3,3
+363,Yvonne Meusburger,1,0,3,18,6,4
+364,Zarina Diyas,1,0,2,17,5,4
+365,Ze Zhang,1,7,6,48,5,1
+366,Zuzana Kucova,1,0,3,30,9,4

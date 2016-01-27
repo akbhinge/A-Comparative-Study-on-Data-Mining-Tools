@@ -1,0 +1,694 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Study</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="style_doc.css"/>
+    <link rel="stylesheet" type="text/css" href="Highslide/highslide/highslide.css" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="Highslide/highslide/highslide.js"></script>
+
+
+    <script type="text/javascript">
+    // override Highslide settings here
+    // instead of editing the highslide.js file
+    hs.graphicsDir = 'Highslide/highslide/graphics/';
+</script>
+    
+
+  </head>
+
+  <title>DATA MINING TOOLS </title>
+
+  <body id="top" class="main1">
+       
+    
+      <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container-fluid">
+       
+          <a class="navbar-brand"  href="temp.html"><span class="glyphicon glyphicon-home"></span></a>
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-controls="navbar-collapse-1" aria-expanded="false">
+       
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+       
+              </button>            
+            </div>     
+
+          <div class="collapse navbar-collapse" role="navigation" id="navbar-collapse-1" style="height:auto">
+              
+              <center><ul class="nav navbar-nav navbar-right">
+                      
+                          <li class="list1">
+                            <a href="DM_Tools.html" class="list-1">Data Mining Tools</a>
+                          </li>
+                  
+                          <li class="list1 active">
+                            <a href="Study.html">Comparative Study</a>
+                          </li>
+               
+                          <li class="list1">
+                            <a href="Quiz.html">Quiz</a>
+                          </li>
+               
+                          <li class="list1">
+                            <a href="Resources.html">Resources</a>
+                          </li> 
+               
+                          <li class="list1">
+                            <a href="Site_Map.pdf">Site Map</a>
+                          </li> 
+                      </ul>
+              </center>
+          </div>
+        </div>
+      </div>
+
+      </br></br></br>
+
+      <div class="container-fluid heading-1"><br><br>
+                <center><h1>COMPARATIVE STUDY</h1></center>
+        <br><br>
+      </div> 
+
+
+        <div class="bs-style3">
+          <div class="panel panel-default">
+            <!-- Default panel contents -->
+            <div class="panel-heading " style="background-color: #1A1A1A; color: #ddd; opacity:0.85; border-radius: 10px; box-shadow: 0px 0px 5px 2.5px #888888"><center><h3> DATA PRE-PROCESSING</h3></center></div>
+              <div class="panel-body">
+                <div class="container-fluid">
+                  <br><br><p>
+                  Data Mining using Rapid Miner and Weka involves working on a data set. A data set is a file having a specific format consisting of a set of information on which we can apply data mining algorithms. Both Rapid Miner and Weka support various file formats for data sets.</p>
+               
+                
+                  <p>
+                  <b>Pre-processing</b> is one of the important step of Data Mining. As mentioned above, a data set consists of large set of information which might be difficult to understand. Preprocessing involves converting the data in a data set into understandable format. It usually is used to remove errors, inconsistent  and incomplete data. 
+                  </p> 
+                  <p>
+                    Let us consider a sample data set of tennis statistics for implementing classification and clustering algorithms in Rapid Miner and Weka. The tennis data set is a <b>csv(comma separated value) </b> file which consists information about grandslam statistics. Both, Rapid Miner and Weka support <b>.csv </b>format.
+                  </p>
+
+                  <p>
+                    Step-by-step Explaination of pre-processing along with Visual Steps for the tennis data set in Weka and Rapid Miner has been provided below.
+                  </p>
+                
+                  <br><br>
+                  <div class="row-fluid">
+                      
+                      <div class="col-md-6">
+
+                        <div class="well well-lg lg1">
+
+                            <center><h3 style="color:#8A5C2E">PRE-PROCESSING IN RAPID MINER</h3></center>
+                            <p>
+                                <br>
+                                <p ><ul class="list1"></p>
+                                  <li><p>Start Rapid Miner Studio</li></p>
+                                  <li><p>Select the Design perspective <img src="design.png" style="border-style:solid; border-width: 1px; "></img></li></p>
+                                  <li><p>Select <strong> FILE</strong>-> New Process</li></p>
+                                  <li><p>Select <strong>Import Data-></strong> Import CSV file</p>
+                                  <p> An Import Configuration wizard will open. You can create a new repository in the repository tab and can give any name of your choice.
+                                  </li></p>
+                                  <li><p>
+                                   From <b>Operators</b> tab, Select <b>Import->Data.</b> Select <b>Read CSV</b> and drag-and-drop it on the Process window.</p>
+                                   <p> Alternatively, from the Repositories tab, you can select the repository created and drag-and-drop it.</p>
+                                  </li></p>
+                                  <li><p> 
+                                  In the <b>Parameters</b> tab, select Import Configuration Wizard.</p>
+                                  <p> <b>Step 1:</b> Select the location of the file.</p>
+                                  <p> We are considering the CleanTennis.csv file which was stored on Desktop.</p>
+                                  <p> <b>Step 2:</b> Select  <b> Comma ","</b> from the column separation field.</p>
+                                  <p> <b>Step 3:</b> Click <b>Next.</b></p>
+                                  <p> <b>Step 4:</b> You can rename or deselect any attributes you do not want and can assign roles to the attributes. </p>
+                                  <p> After doing so , click <b>Finish.</b></p>
+
+                                  </li></p>
+
+                               
+                               
+                        </div>
+                      
+                      </div>
+                      
+
+                      <div class="col-md-6">
+
+
+                        <div class="well well-lg lg1">
+                         
+                            <center><h3 style="color:#8A5C2E">PRE-PROCESSING IN WEKA</h3></center>
+                            <p>
+                              <br>
+                              <p><ul class="list1"></p>
+                                  <li>
+                                    <p>
+                                      Start Weka.
+                                    </p> 
+                                  </li>
+
+                                  <li>
+                                    <p>
+                                      From the Weka GUI Chooser, Select <b> Explorer </b> as the Application.
+                                      <center>
+                                        <img src="explorer.png" style="border-style:solid; border-width: 1px; ">
+                                        </img>
+                                      </center>
+                                    </p>
+                                  </li> 
+
+                                  <li>
+                                    <p>
+                                      <b>Step 1:</b> In the <b>Preprocess</b> tab, Select <b>Open File</b>
+                                    </p>
+                                    <p> 
+                                      Select your dataset.
+                                    </p>
+                                  </li>
+                                  
+                                  <li>
+                                    <p>
+                                      <b>
+                                      Step 2:</b> From <b> Filters</b> tab, Select any filters you want to add to the data set.
+                                    </p>
+                                  </li>
+
+                                  <li>
+                                    <p>
+                                      Weka allows supervised and unsupervised filters on <b> attributes</b> and <b>instances</b>.
+                                    </p>
+                                  </li>
+                                  
+                                  <li>  
+                                    <p> 
+                                      In our example, we have not selected any filter.
+                                    </p>
+                                  </li>
+                                  
+                                  <li>
+                                    <p>
+                                      <b>Step 3:</b> Select the attributes from the data set you want to keep for analysis.
+                                    </p>
+                                  </li> 
+
+                                  <li>
+                                    <p>
+                                       You can remove some attributes depending upon your requirements.
+                                    </p>
+                                  </li>
+
+                                  <li>
+                                    <p>
+                                     In this example, we have selected all attributes for sample visualization. 
+                                    </p>
+                                  </li>
+
+                                  <li>
+                                    <p>
+                                      Again, depending on your needs you can select number of attributes you want for the implementation.
+                                    </p>
+                                  </li>
+                                </ul>
+
+                                <br>   
+                           
+                        </div>
+                      </div>   
+                  </div>
+                </div>
+                <center>
+                  <button type="button" class="btn btn-default btn-b1 page-scroll">
+                    <a href="Steps_Preprocessing.html" aria-controls="nav-collapse3" style="color:#8A5C2E">VISUAL STEPS!</a>
+                  </button>
+                </center><br><br>
+              </div>
+            </div>
+          </div>
+        </div></br>
+
+
+        <div class="bs-style3">
+          <div class="panel panel-default">
+            <!-- Default panel contents -->
+            <div class="panel-heading" style="background-color: #1A1A1A; color: #ddd; opacity:0.85; border-radius: 10px; box-shadow: 0px 0px 5px 2.5px #888888"><center><h3>    CLASSIFICATION ALGORITHM</h3></center></div>
+              <div class="panel-body">
+                <div class="container-fluid">
+                  <br><br><p>
+                  Classification is a process of predicting information based on certain provided information. Generally, the outcome of classification algorithms is based on the given input. A training set is used for prediction whereas the output is called as the prediction attribute.</p>
+               
+                  <br>
+                  <h3>IMPLEMENTATION</h3><br>
+                  <p>
+                    We can apply classification and clustering algorithms to implement data mining on this tennis data set using various data mining tools.
+                  </p>
+                  <p>
+                    Step-by-step explaination of implementation of each process in Weka and Rapid Miner has been provided below.
+                  </p>
+                  <p>
+                    To learn more about classification algorithms in detail before starting with the actual implementation, <a href="http://athena.ecs.csus.edu/~rajendis/index.html#" class="link1"  style="color:#8A5C2E; border-style:solid; border-width: 1px; padding: 5px">Click here!</a>
+                  </p>
+              
+                  <h3><u> NAIVE BAYES </u></h3>
+                  </br>
+
+                    <ul class="list1">
+                      <li>
+                        <p>
+                          Naive Bayes is one of the algorithms used to perform classification of data.
+                        </p> 
+                        <p>
+                           It is supported by Rapid Miner and Weka, although the results vary in both of these tools.
+                        </p>
+                      </li> 
+
+                      <li>
+                        <p>
+                          We will consider the same sample Tennis data set to walk through the steps to implement Naive Bayesian algorithm in Rapid Miner and Weka.
+                        </p>
+                      </li> 
+                    </ul>
+
+                  <br><br>
+                  <div class="row">
+                      
+                      <div class="col-md-6">
+
+                        <div class="well well-lg lg1">
+
+                            <center><h3 style="color:#8A5C2E">STEPS IN RAPID MINER</h3></center><br>
+                            <ul class="list1">
+                              <li>
+                                <p>
+                                  Start Rapid Miner Studio
+                                </p>
+                              </li> 
+
+                              <li>
+                                <p>
+                                  Perform the steps described in the <strong>"Preprocessing"</strong> section above.
+                                </p>
+                              </li>
+                              
+                              <li>
+                                <p>
+                                  Select the Naive Bayesian Operator and drag-and-drop it on the Process View.
+                                </p>
+                              </li>
+
+                              <li>
+                                <p>
+                                  Check for any problems and fis them using Quick Fix.
+                                </p>
+                              </li>
+
+                              <li>
+                                <p>
+                                  You can select any particular attribute as the "label" while working on your data set. In our example, we select "state" ast the label.
+                                </p>
+                              </li>
+
+                              <li>
+                                <p>
+                                  Rapid Miner has a operator <b>"Set Role"</b> which cab be used to set role of a particular attribute.
+                                </p>
+                                
+                              </li>
+
+                              <li>
+                                 <p>
+                                  If there are no errors, Select <b> RUN </b>to implement the process.
+                                </p>
+                              </li>
+
+                              <li>
+                                 <p>
+                                  The Simple Distribution will be displayed based on our "label" attribute, i.e. "state" attribute in our sample example.
+                                </p>
+                              </li>
+
+                              <li>
+                                 <p>
+                                  By default, the result is displayed in <b>Text View</b>.
+                                </p>
+                                <p>
+                                  Other visualisation options provided by Rapid Miner-
+                                </p>
+                                <p>
+                                  <b>-Plot View</b>
+                                </p>
+                                <p>
+                                  <b>-Distribution Table</b>
+                                </p>
+                              </li>
+
+                            </ul></br>
+                                
+                            
+                      
+                        </div>
+                      
+                      </div>
+                      
+
+                      <div class="col-md-6">
+
+
+                        <div class="well well-lg lg1">
+                         
+                            <center><h3 style="color:#8A5C2E">STEPS IN WEKA</h3></center><br>
+                            <ul class="list1">
+                              
+                              <li>
+                                <p>
+                                  Start Weka
+                                </p>
+                              </li> 
+
+                              <li>
+                                <p>
+                                  Perform the steps described in the <strong>"Preprocessing"</strong> section above.
+                                </p>
+                              </li> 
+
+                              <li>
+                                <p>
+                                  Go to the <b>Classify</b> tab and select <b>NaiveBayes</b> as the classifier. 
+                                </p>
+                                <p>
+                                  Depending on which classification algorithm you want to implement, select the particular classifier.
+                                </p>
+                              </li>
+                              
+                              <li>
+                                <p>
+                                  Double click on the classifier to open the <b>Naivebayes ObjectEditor</b>.
+                                </p>
+                                <p>
+                                  In our example, we select all the default properties.
+                                </p>
+                              </li>
+                              
+                              <li>
+                                <p>
+                                  Now, select one attribute to be the <b>"label"</b> for classification.
+                                </p>
+                                <p>
+                                  We select "state" as the label in our example.
+                                </p>
+                              </li>
+
+                              <li>
+                                <p>
+                                  After selecting the label, click <b> Start </b> to begin the execution of classification algorithm
+                                </p>
+                              </li>
+
+
+                              <li>
+                                <p>
+                                  Now, the classification of various attributes based on the label will be displayed in the result screen.
+                                </p>
+                              </li>
+
+
+                              <li>
+                                <p>
+                                  Alternatively, Weka provides options for visualization by right-clicking on the particular algorithm in the <b>Result list</b>.
+                                </p>
+                              </li>
+
+                            </ul></br>
+                        </div>
+                       </div>
+                  </div>
+                </div>                  
+              </div>
+
+                <center>
+                  <button type="button" class="btn btn-default btn-b1 page-scroll">
+                    <a href="Steps_Classification.html" aria-controls="nav-collapse3" style="color:#8A5C2E">VISUAL STEPS!</a>
+                  </button>
+                </center><br><br>
+            </div>
+          </div>
+        </div>
+      </br>
+                
+      <div class="bs-style3">
+          <div class="panel panel-default">
+            <!-- Default panel contents -->
+            <div class="panel-heading" style="background-color: #1A1A1A; color: #ddd; opacity:0.85; border-radius: 10px; box-shadow: 0px 0px 5px 2.5px #888888"><center><h3> CLUSTERING ALGORITHM </h3></center></div>
+              <div class="panel-body">
+                <div class="container-fluid">
+                  <br><br>
+                  <p>
+                    Clustering is a process of predicting information based on certain provided information. Generally, the outcome of classification algorithms is based on the given input. A training set is used for prediction whereas the output is called as the prediction attribute.
+                  </p>
+
+                  <p>
+                    To learn more about Clustering first before going ahead with the actual implementation of clustering algotihms in Weka or Rapid Miner, <a href="http://athena.ecs.csus.edu/~datamini/" style="color:#8A5C2E; border-style:solid; border-width: 1px; padding: 5px">Click here! </a>
+                  </p>
+               
+                  <h3><u> K-MEANS CLUSTERING </u></h3>
+                  </br>
+
+                    <ul class="list1">
+                      <li>
+                        <p>
+                          K-Means is an unsupervised clustering algorithm used to classify a data set through certain number of clusters. 
+                        </p>
+                      </li> 
+
+                      <li>
+                        <p>
+                          We will consider the same sample Tennis data set to walk through the steps to implement K-means algorithm in Rapid Miner and Weka.
+                        </p>
+                      </li> 
+                    </ul>
+
+                    <div class="row">
+                      
+                      <div class="col-md-6">
+
+                        <div class="well well-lg lg1">
+
+                            <center><h3 style="color:#8A5C2E">STEPS IN RAPID MINER</h3></center><br>
+                            <ul class="list1">
+                              <li>
+                                <p>
+                                  Start Rapid Miner Studio
+                                </p>
+                              </li> 
+
+                              <li>
+                                <p>
+                                  Perform the steps described in the <strong>"Preprocessing"</strong> section above.
+                                </p>
+                              </li> 
+                              
+                              <li>
+                                <p>
+                                  Depending on the data set, you will have to do additional preprocessing in Rapid Miner to implement KMeans clustering.
+                                </p>
+                                <p>
+                                  For the sample dataset, we select two additional operators based on the quick fix functionality.
+                                </p>
+                                <p>
+                                  1. <b>Replace Missing Values</b><br>
+                                  2. <b>Nominal to Binary</b><br>
+                                  Drag and drop these operators on the process view. You will have to select operators based on your dataset requirements.
+                                </p>  
+                              </li> 
+
+                              <li>
+                                <p>
+                                  From the Operators tab, Select <b>K-Means</b> operator from the <b> Clustering and Segmentation </b>category and drag-and-drop it on the Process view.
+                                </p>
+                              </li>  
+                              
+                              <li>
+                                <p>
+                                  In <b>Parameters View</b>, set number of clusters <b>K</b> as <b>4</b>. Set <b>max runs as 10</b> which is the number of iterations.
+                                </p>
+                              </li>
+
+                              <li>
+                                <p>
+                                  Connect the out port of each operator to next operator and check for any errors using Quick Fix.
+                                </p>
+                              </li>
+
+                              <li>
+                                <p>
+                                  If there are no errors, Select <b> RUN </b>to implement the process.
+                                </p>
+                                <p>
+                                  Cluster assignment would be displayed in <b>Result Overview.</b>  
+                                </p>
+                                <p>
+                                  Rapid Miner provides a number of visualization options using,
+                                <p>
+                                <p>
+                                  1. Text View
+                                </p>
+                                <p>
+                                  2. Folder View
+                                </p>
+                                <p>
+                                  3. Graph View
+                                </p>
+                                <p>
+                                  4. Centroid Table/ Centroid Plot View
+                                </p>
+                              </li>
+
+                              <li>
+                                <p>
+                                  In our example, we have used <b>Balloon Visualization</b> in the Graph View display.
+                                </p>
+                                <p>
+                                  There are a number of other useful Visualations like Tree, Radial, Circle, etc. available which you can try while your implementation.
+                                </p>
+                              </li>
+                            </ul>
+                        </div>
+                      </div>
+                      
+
+                      <div class="col-md-6">
+
+
+                        <div class="well well-lg lg1">
+                         
+                            <center><h3 style="color:#8A5C2E">STEPS IN WEKA</h3></center><br>
+                            <ul class="list1">
+                              <li>
+                                <p>
+                                  Start Weka Explorer
+                                </p> 
+                              </li> 
+
+                              <li>
+                                <p>
+                                  Perform the steps described in the <strong>"Preprocessing"</strong> section above.
+                                </p>
+                              </li>
+
+                              <li>
+                                <p>
+                                  Select any filter if you want to apply to your dataset from the <b>Filters</b> option before applying the clustering algorithm.
+                                </p> 
+                              </li> 
+
+                              <li>
+                                <p>
+                                  From the <b>Cluster</b> tab, select <B>SimpleKMeans</b> from the list of available clustering algorithms.
+                                </p>
+                              </li>
+
+                              <li>
+                                <p>
+                                  Number of supported algorithms depends on the dataset.
+                                </p>
+                              </li>
+                              
+                              <li>
+                                <p>
+                                  Double click to Open the <b>ObjectEditor</b>. 
+                                </p>
+                              </li>
+
+                              <li>
+                                <p>
+                                  Assign <b>K</b> which is the number of clusters.
+                                </p>
+                                <p>
+                                  In our example, Set<b> K=4 (4 clusters).</b> 
+                                </p>
+                              </li>
+
+                              <li>
+                                <p>
+                                   Choose the distance function and the maximum number of iterations.
+                                </p> 
+                                
+                                <p>
+                                  Let the distanceFunction be <b>EuclideanDistance</b> and maximum iterations be 10.
+                                </p>
+                              </li>
+                              
+                              <li>
+                                <p>
+                                  You can change these properties according to your requirements.
+                                </p>
+                              </li>
+                              
+                              <li>
+                                <p>
+                                  Click <b> Start </b> to start the implementation.
+                                </p>
+                                <p>
+                                  The cluster assignments and output can be viewed in the <b>Clusterer Output window.</b>
+                                </p>
+                              </li>
+
+                              <li>
+                                <p>
+                                  Alternatively from <b>Result list</b>,
+                                </p>
+                                <p> Right click and select <b>Visualize cluster assignments</b> to view the cluster assignments graphically.
+                                </p>
+                              </li>
+
+                              <li>
+                                <p>
+                                  In our example, 4 different colors will be assigned to 4 clusters and displayed according to cluster means as a graph.
+                                </p>
+                              </li>
+
+                              <li>
+                                <p>
+                                  Weka does not have a number of different visualisation display methods similar to Rapid Miner.
+                                </p>
+                            </ul></br></br></br></br>  
+                        </div>
+
+                       </div>
+                    </div>                
+                </div>
+                <center>
+                  <button type="button" class="btn btn-default btn-b1 page-scroll">
+                    <a href="Steps_Clustering.html" aria-controls="nav-collapse3" style="color:#8A5C2E">VISUAL STEPS!</a>
+                  </button>
+                </center><br><br>
+              </div>
+            </div>
+          </div>
+      </div> 
+    </div>
+
+              <div class="footer" style="background-color: #1A1A1A; color: #ddd; opacity:0.95"><br>
+                <div class="container-fluid">
+                  <div class="row-fluid">
+                    <div class="col-md-8">
+                    </div>
+                    <div class="col-md-4">
+                   <span class="glyphicon glyphicon-copyright-mark"></span> California State University, Sacramento | 2015
+                 </div>
+                </div><br><br>
+              </div>
+
+
+  </body>
+</html>

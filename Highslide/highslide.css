@@ -1,0 +1,3 @@
+hs.graphicsDir = 'highslide/graphics/';
+hs.outlineType = 'custom';
+hs.captionEval = 'this.a.title';
