@@ -16,3 +16,4 @@ Learning data mining tools made easy!
 - 4. R - useful resources provided to learn implementation in R
 - A number of useful resources provided to understand the concepts of data mining
 - Step by Step implementation of Classification and Clustering algorithms 
+- Quiz to understand thorough working of data mining tools
