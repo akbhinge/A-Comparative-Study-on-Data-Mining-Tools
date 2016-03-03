@@ -7,6 +7,7 @@ Learning data mining tools made easy!
 - Bootstrap
 - JQuery
 - Javascript
+- Used Highslide.JS
 
 - This comparative study presents a detailed analysis of working of various data mining tools and provides steps to implement various classification and clustering algorithms
 - Data Mining Tools considered in the comparative Study-
