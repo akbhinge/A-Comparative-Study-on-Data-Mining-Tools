@@ -1,13 +1,15 @@
 # A-Comparative-Study-on-Data-Mining-Tools
 Learning data mining tools made easy!
 
-- Technologies used to design web interface-
+# Technologies used to design web interface-
 - HTML5
 - CSS3
 - Bootstrap
 - JQuery
 - Javascript
-- Used Highslide.JS
+- Highslide.JS
+
+--
 
 - This comparative study presents a detailed analysis of working of various data mining tools and provides steps to implement various classification and clustering algorithms
 - Data Mining Tools considered in the comparative Study-
