@@ -1,7 +1,7 @@
 # A-Comparative-Study-on-Data-Mining-Tools
 Learning data mining tools made easy!
 
-# Technologies used to design web interface-
+- Technologies used to design web interface-
 - HTML5
 - CSS3
 - Bootstrap
