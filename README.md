@@ -21,6 +21,7 @@ Learning data mining tools made easy!
 - Step by Step implementation of Classification and Clustering algorithms 
 - Quiz to understand thorough working of data mining tools
 - K-Means clustering and Naive Bayes Algorithm implementation provided for sample explaination
+- A site map to facilitate easier navigation to useful information of each tool
 
 # By
 - Akshay Bhinge - https://github.com/akbhinge/A-Comparative-Study-on-Data-Mining-Tools
