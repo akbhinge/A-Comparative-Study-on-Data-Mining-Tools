@@ -15,7 +15,7 @@ Learning data mining tools made easy!
 - Data Mining Tools considered in the comparative Study-
 - 1. Rapid Miner
 - 2. Weka
-- 3. Tableau
+- 3. Tableau - a useful data visualization tool!
 - 4. R - useful resources provided to learn implementation in R
 - A number of useful resources provided to understand the concepts of data mining
 - Step by Step implementation of Classification and Clustering algorithms 
