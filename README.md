@@ -26,9 +26,9 @@ Learning data mining tools made easy!
 --
 Future Scope-
 - Use d3.js to create visualizations of implementations of various tools.
-- Include implementation of more data mining tools in the case study/web interface
---
+- Include implementation of more data mining tools in the case study/web interface.
 
+--
 # By
 - Akshay Bhinge - https://github.com/akbhinge/A-Comparative-Study-on-Data-Mining-Tools
 - Website- https://athena.ecs.csus.edu/~akbhinge
