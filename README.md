@@ -19,7 +19,7 @@ Learning data mining tools made easy!
 - 4. R - useful resources provided to learn implementation in R
 - A number of useful resources provided to understand the concepts of data mining
 - Step by Step implementation of Classification and Clustering algorithms 
-- Quiz to understand thorough working of data mining tools
+- Quiz to understand the working features of each of these data mining tools
 - K-Means clustering and Naive Bayes Algorithm implementation provided for sample explaination
 - Used Highslide.JS to enable easier visualization of implementation screenshots
 - A site map to facilitate easier navigation to useful information of each tool
