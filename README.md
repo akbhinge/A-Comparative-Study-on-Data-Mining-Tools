@@ -30,6 +30,7 @@ Future Scope-
 - Include implementation of more data mining tools in the case study/web interface.
 - Include complex examples in the comparative study
 - Create a new tab consisting of frequently asked questions to be added to the comparative study based on the feedback from the students
+- Re-arrange the files to make the directories look more ordered
 
 --
 # By
