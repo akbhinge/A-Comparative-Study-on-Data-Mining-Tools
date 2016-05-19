@@ -1,7 +1,7 @@
 # A-Comparative-Study-on-Data-Mining-Tools
 Learning data mining tools made easy!
 
-- Data Mining Tools Studied-
+- Data Mining Tools Implemented in the case study-
 - Rapid Miner
 - Weka
 - Tableau
