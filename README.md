@@ -5,7 +5,6 @@ Learning data mining tools made easy!
 - Rapid Miner
 - Weka
 - Tableau
-- R
 
 - Technologies used to design web interface-
 - HTML5
