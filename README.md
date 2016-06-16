@@ -34,7 +34,7 @@ Future Scope-
 - Use d3.js to create visualizations of implementations of various tools.
 - Include implementation of more data mining tools in the case study/web interface.
 - Include complex examples in the comparative study
-- Create a new tab consisting of frequently asked questions to be added to the comparative study based on the feedback from the students
+- Create a new tab consisting of frequently asked questions to the comparative study based on the feedback from the students and online research
 - Re-arrange the files to make the directories look more ordered
 
 --
