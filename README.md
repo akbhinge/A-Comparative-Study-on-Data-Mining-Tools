@@ -4,7 +4,8 @@ Learning data mining tools made easy!
 - Data Mining Tools Implemented in the case study-
 - Rapid Miner
 - Weka
-- Tableau
+
+- A Case study on Tableau
 
 - Technologies used to design web interface-
 - HTML5
