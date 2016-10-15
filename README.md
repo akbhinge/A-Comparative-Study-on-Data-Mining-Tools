@@ -10,6 +10,7 @@ Learning data mining tools made easy!
 - Technologies used to design web interface-
 - HTML5
 - CSS3
+- LESS (CSS preprocessor)
 - Bootstrap
 - JQuery
 - Javascript
